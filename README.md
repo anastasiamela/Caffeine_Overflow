@@ -1,4 +1,5 @@
 ### caffeine_overflow
+This is the info of the project <3
     
    ## System's assumptions:
       --> A user has to be logged in, in order to post/update/patch/delete and he has to provide a valid token 
